@@ -1,0 +1,7 @@
+Code References
+● https://xgboost.readthedocs.io/en/stable/python/python_api.html
+● https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html
+● https://www.kaggle.com/datasets/cicdataset/cicids2017/code
+● https://www.kaggle.com/code/stuarthallows/using-xgboost-with-scikit-learn
+● https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+● https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
