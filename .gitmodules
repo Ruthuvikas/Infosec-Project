@@ -1,0 +1,3 @@
+[submodule "SHRUG_anon/SHRUG"]
+	path = SHRUG
+	url = https://github.com/gopuman/SHRUG
